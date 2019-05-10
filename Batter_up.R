@@ -1,3 +1,5 @@
+#this is my solution to the May 10th riddler about baseball hit-streaks
+
 #input averages
 batters <- c(200, 250, 300, 350, 400, 500)
 #5 guys get 3200 attempts, the PED guy gets half that
