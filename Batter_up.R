@@ -59,3 +59,11 @@ for (a in 1:dim(careers)[1]){
   }
   print(paste("Mr.", average, "beat Joe", beats, "times"))
 }
+
+#results:
+#[1] "Mr. 200 beat Joe 0 times"
+#[1] "Mr. 250 beat Joe 0 times"
+#[1] "Mr. 300 beat Joe 8 times"
+#[1] "Mr. 350 beat Joe 763 times"
+#[1] "Mr. 400 beat Joe 14053 times"
+#[1] "Mr. 500 beat Joe 93208 times"
